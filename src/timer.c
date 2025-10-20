@@ -12,6 +12,7 @@
 // d max 50.00%
 // d mean 50.00%
 // d stddev 0.00%
+// drift (calculated from mean) 1.224 s / hour
 
 // when busy
 // min 20.00034 ms
@@ -22,6 +23,7 @@
 // d max 50.00%
 // d mean 50.00%
 // d stddev 0.00%
+// drift (calculated from mean) 1.224 s / hour
 
 #define OUT_PIN 2
 #define DELAY_MS 10

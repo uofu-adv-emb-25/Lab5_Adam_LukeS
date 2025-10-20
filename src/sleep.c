@@ -15,6 +15,7 @@
 // d max 50.00%
 // d mean 50.00%
 // d stddev 0.00%
+// drift (calculated from mean) 1.224 s / hour
 
 // when busy
 // min 24.19416 ms
@@ -25,6 +26,7 @@
 // d max 50.00%
 // d mean 50.00%
 // d stddev 0.00%
+// drift (calculated from mean) 15.098 s / hour
 
 int main(void)
 {
