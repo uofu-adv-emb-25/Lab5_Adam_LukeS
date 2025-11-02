@@ -1,0 +1,10 @@
+min 19.99896
+max 20.00172
+mean 20.00034 ms
+stddev 395.6 ns
+drift (calculated from mean) 1.224 s / hour
+
+d min 50.09%
+d max 50.11%
+d mean 50.09%
+d stddev 0.00%
